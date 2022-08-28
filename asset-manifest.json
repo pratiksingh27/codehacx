@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/codehacx/static/css/main.6a4fdf13.css",
+    "main.js": "/codehacx/static/js/main.fceb21a1.js",
+    "static/js/787.49c88529.chunk.js": "/codehacx/static/js/787.49c88529.chunk.js",
+    "index.html": "/codehacx/index.html",
+    "main.6a4fdf13.css.map": "/codehacx/static/css/main.6a4fdf13.css.map",
+    "main.fceb21a1.js.map": "/codehacx/static/js/main.fceb21a1.js.map",
+    "787.49c88529.chunk.js.map": "/codehacx/static/js/787.49c88529.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a4fdf13.css",
+    "static/js/main.fceb21a1.js"
+  ]
+}
