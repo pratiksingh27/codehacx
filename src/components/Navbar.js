@@ -7,7 +7,7 @@ import React, {useState} from 'react';
 const Navbar = () => {
     let Links =[
         {name: "HOME", link: "/"},
-        {name: "ABOUT", link: "/"},
+        {name: "ABOUT", link: "#about"},
         {name: "DEPERTMENT", link: "/"},
         {name: "TEAM", link: "/"},
         {name: "CONTACT", link: "/"},
