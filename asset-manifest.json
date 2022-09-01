@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/codehacx/static/css/main.b735b0ef.css",
-    "main.js": "/codehacx/static/js/main.8f1046e0.js",
+    "main.css": "/codehacx/static/css/main.9a156811.css",
+    "main.js": "/codehacx/static/js/main.8178c2ef.js",
     "static/js/787.49c88529.chunk.js": "/codehacx/static/js/787.49c88529.chunk.js",
     "static/media/about.svg": "/codehacx/static/media/about.683edea041f38339a4c87547b83f22c6.svg",
+    "static/media/ml.svg": "/codehacx/static/media/ml.85f6243d0f7d9ab2c6642c91a35f7796.svg",
+    "static/media/app.svg": "/codehacx/static/media/app.076f26c32186035517dfeba0b47bde24.svg",
+    "static/media/code.svg": "/codehacx/static/media/code.a96646634041b0ba4dc314ffd6316e31.svg",
+    "static/media/avatar.svg": "/codehacx/static/media/avatar.e67d191eef0a495efc4568684a75b262.svg",
     "index.html": "/codehacx/index.html",
-    "main.b735b0ef.css.map": "/codehacx/static/css/main.b735b0ef.css.map",
-    "main.8f1046e0.js.map": "/codehacx/static/js/main.8f1046e0.js.map",
+    "main.9a156811.css.map": "/codehacx/static/css/main.9a156811.css.map",
+    "main.8178c2ef.js.map": "/codehacx/static/js/main.8178c2ef.js.map",
     "787.49c88529.chunk.js.map": "/codehacx/static/js/787.49c88529.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b735b0ef.css",
-    "static/js/main.8f1046e0.js"
+    "static/css/main.9a156811.css",
+    "static/js/main.8178c2ef.js"
   ]
 }
