@@ -12,6 +12,7 @@
   import Navbar from "./components/Navbar";
   import About from "./components/About";
 import Team from './components/Team';
+import Department from './components/Department';
 
 export default function App() {
   return (
@@ -19,6 +20,7 @@ export default function App() {
       <Navbar />
       <Hero/>
       <About />
+      <Department/>
       <Team/>
     </div>
   );

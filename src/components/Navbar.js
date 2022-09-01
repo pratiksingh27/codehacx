@@ -8,8 +8,8 @@ const Navbar = () => {
     let Links =[
         {name: "HOME", link: "/"},
         {name: "ABOUT", link: "#about"},
-        {name: "DEPERTMENT", link: "/"},
-        {name: "TEAM", link: "/"},
+        {name: "DEPERTMENT", link: "#department"},
+        {name: "TEAM", link: "#team"},
         {name: "CONTACT", link: "/"},
     ]
     const [open, setOpen] = useState(false)
